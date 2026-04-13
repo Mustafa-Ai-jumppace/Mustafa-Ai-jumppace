@@ -59,9 +59,6 @@ Centralized AI + Data workflow system.
 ---
 
 ## 🧩 System Architecture (My Workflow)
-
-```mermaid
-graph TD
 A[Data Scraping] --> B[Data Cleaning]
 B --> C[Vector DB / Storage]
 C --> D[LLM Processing]
