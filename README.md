@@ -84,9 +84,8 @@ I don’t just write code — I build **business systems**:
 
 ## 🌐 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: your-linkedin
-🌍 Portfolio: coming soon
+📧 Email: [ghulam@jumpace.com](ghulam@jumppace.com)
+
 
 ---
 
