@@ -62,9 +62,11 @@ Ai suggestion using fast api
 ### Upcoming mission
 Along with current AI and automation work, I am actively contributing and open to projects in:
 
-#📊 Data Analytics — dashboards, reporting, business insights
-#🧠 Data Science — predictive modeling, ML-based solutions
-#🏗 Data Engineering — ETL pipelines, scalable data infrastructure
+Data Analytics — dashboards, reporting, business insights
+
+Data Science — predictive modeling, ML-based solutions
+
+Data Engineering — ETL pipelines, scalable data infrastructure
 
 
 ### 📊 Mustafa Profile System
