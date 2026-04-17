@@ -44,13 +44,26 @@ An AI Engineer focused on building real-world automation systems for agencies, s
 
 ## 📂 Featured Projects
 
-### 🤖 MUTCD-BOT
+### 🤖 Waylert-bot
 
 AI-powered chatbot system using RAG architecture.
+Train images model for bot
+Set mutcd and osha pdf in pinecone database for rag.
+voice helping bot deployment
 
 ### 🧠 Legacy Elite LLM
 
-Custom LLM workflow with automation capabilities.
+Train images and videos in rag pipeline.
+continue working
+
+### friendli
+Ai suggestion using fast api 
+
+### Upcoming mission
+Data analyze
+Data Science 
+DATA Engineering
+
 
 ### 📊 Mustafa Profile System
 
