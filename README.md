@@ -4,7 +4,6 @@
 
 Welcome to my GitHub — where I design and deploy intelligent systems that automate business workflows, generate leads, and scale operations using AI.
 
----
 
 ## 🧠 About Me
 
@@ -71,15 +70,10 @@ Continue working.
 
 ### friendli
 
-AI suggestions using FastAPI continue....
+AI suggestions using FastAPI continue working...
 
 ---
 
-### 📊 Mustafa Profile System
-
-Centralized AI + Data workflow system.
-
----
 
 ### Upcoming mission
 
