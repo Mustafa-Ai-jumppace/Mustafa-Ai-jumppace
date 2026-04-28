@@ -7,7 +7,7 @@ Welcome to my GitHub — where I design and deploy intelligent systems that auto
 
 ## 🧠 About Me
 
-Hi, I'm **Ghulam Mustafa**  
+Hi, I'm **Anderson**  
 An AI Engineer focused on building real-world automation systems for agencies, startups, and businesses.
 
 🔹 Specializing in:
